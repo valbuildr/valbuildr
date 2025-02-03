@@ -1,15 +1,17 @@
 <div align="center">
- <h1>Hi there 👋</h1>
- <h3>I'm a person that does things on the internet sometimes.</h3>
+ <h1>hey, i'm valentine.</h1>
+ <h3>i'm a trans girl that makes nerdy shit on the internet.</h3>
 </div>
 
-## Known programming languages
+<h2>I know these programming languages</h2>
 
-- Python
-- JavaScript
-- Lua (kinda)
-- Java (kinda)
+<ul>
+  <li>Python</li>
+  <li>JavaScript</li>
+  <li>Lua (kinda)</li>
+  <li>Java (kinda)</li>
+</ul>
 
-## Social media
+<h2>Social media</h2>
 
-I have all of my social media platforms linked on my website, https://links.valbuilds.xyz.
+<p>I have all of my social media platforms linked on <a href="https://valbuilds.xyz/links">my website</a>.</p>
