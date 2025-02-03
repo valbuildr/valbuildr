@@ -8,10 +8,11 @@
 </div>
 
 <ul>
-  <li>Python</li>
-  <li>JavaScript</li>
-  <li>Lua (kinda)</li>
-  <li>Java (kinda)</li>
+  <li>Python (proficient)</li>
+  <li>JavaScript (proficient)</li>
+  <li>C# (beginner)</li>
+  <li>Java (beginner)</li>
+  <li>Lua (beginner, likely wont continue learning)</li>
 </ul>
 
 <div align="center">
