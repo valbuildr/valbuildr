@@ -1,6 +1,6 @@
 <div align="center">
  <h1>hey, i'm valentine.</h1>
- <h3>i'm a trans girl that makes nerdy shit on the internet.</h3>
+ <h3>i'm a trans girl that makes nerdy stuff on the internet.</h3>
 </div>
 
 <div align="center">
